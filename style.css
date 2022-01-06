@@ -85,3 +85,9 @@ section {
   border-image-slice: 1;
   border-radius: auto;
 }
+.lastpart {
+  justify-content: center;
+}
+footer p {
+  text-align: center;
+}
