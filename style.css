@@ -27,6 +27,39 @@ section {
   padding: 5px 10px;
   border-radius: 4px;
 }
-.heading {
-  padding-left: 450px;
+.goals {
+  display: flex;
+  margin: 10%;
+  justify-content: space-between;
+}
+.third-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.resize {
+  width: 150px;
+  height: auto;
+}
+.goalbox1 {
+  width: 33%;
+  padding-left: 3.33%;
+  padding-right: 3.33%;
+  background-color: lightblue;
+  border-radius: 20px;
+}
+.goalbox2 {
+  width: 33%;
+  padding-left: 3.33%;
+  padding-right: 3.33%;
+  background-color: wheat;
+  border-radius: 20px;
+}
+.goalbox3 {
+  width: 33%;
+  padding-left: 3.33%;
+  padding-right: 3.33%;
+  background-color: thistle;
+  border-radius: 20px;
 }
