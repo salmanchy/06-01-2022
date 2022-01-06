@@ -3,8 +3,20 @@ body {
 }
 h1 {
   font-size: 50px;
-  padding-left: 15px;
 }
 .point {
   color: rebeccapurple;
+}
+.first-part {
+  padding-left: 15px;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 80%;
 }
