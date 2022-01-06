@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+  padding-left: 15px;
+}
+.point {
+  color: rebeccapurple;
+}
