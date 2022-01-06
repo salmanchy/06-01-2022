@@ -63,3 +63,25 @@ section {
   background-color: thistle;
   border-radius: 20px;
 }
+.hobbies {
+  width: 80%;
+  padding-left: 5%;
+  display: flex;
+}
+.hobbies img {
+  width: 60%;
+}
+.academic {
+  width: 100%;
+  padding-left: 5%;
+  display: flex;
+}
+.academic img {
+  width: 70%;
+}
+#border-image {
+  border-left: 4px solid;
+  border-image: red;
+  border-image-slice: 1;
+  border-radius: auto;
+}
